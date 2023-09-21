@@ -1,0 +1,26 @@
+.textField{
+    border: none;
+    border-color: transparent;
+    border: none transparent;
+outline: none;
+}
+
+.nav{
+  align-items: center;
+
+}
+.nav img{
+  width: 100px;
+  height:100px;
+  border-radius: 100%;
+}
+.avatar {
+    margin-right: 10px;
+    vertical-align: middle;
+    
+  }
+
+  .sameline{
+    display: inline-block;
+    margin-left: 20px; 
+  }
